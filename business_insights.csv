@@ -1,0 +1,4 @@
+product,base_price,opt_price,price_change,profit_lift_pct,max_profit,recommendation
+Wireless Earbuds,45.0,90.0,100.0,124.0,5488.44,Increasing price by 100.0% (from $45.0 to $90.00) is projected to improve daily profit by 124.0%.
+Leather Wallet,30.0,60.0,100.0,55.0,3868.43,Increasing price by 100.0% (from $30.0 to $60.00) is projected to improve daily profit by 55.0%.
+Desk Organizer,22.0,44.0,100.0,42.6,3316.56,Increasing price by 100.0% (from $22.0 to $44.00) is projected to improve daily profit by 42.6%.

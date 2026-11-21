@@ -1,0 +1,4 @@
+name,cost,base_price,opt_price_profit,max_profit,opt_price_revenue,max_revenue,profit_margin_pct
+Wireless Earbuds,18.0,45.0,90.0,5488.44,90.0,6860.55,80.0
+Leather Wallet,10.0,30.0,60.0,3868.43,60.0,4642.12,83.3
+Desk Organizer,7.5,22.0,44.0,3316.56,44.0,3998.05,83.0
